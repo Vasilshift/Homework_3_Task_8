@@ -18,7 +18,7 @@ int main() {
 
 		if (a % i == 0 and b % i == 0) {
 
-			cout << i << " ";
+			cout << "Display all numbers by which numbers 1 and 2 are divisible without remainder: " << endl << i << " " << endl;
 
 		}
 
